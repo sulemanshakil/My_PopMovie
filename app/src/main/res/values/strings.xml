@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My_PopMovie</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="Popularity_setting">Popularity</string>
+    <string name="Rating_setting">Rating</string>
+    <string name="favourite_setting">Favourite</string>
+    <string name="key">9ea64a8e48fe8bd5193b4dc58714a3d9</string>
+</resources>
